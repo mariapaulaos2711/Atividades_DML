@@ -7,6 +7,8 @@ Atividade prática de banco de dados utilizando MySQL.
 - UPDATE
 - DELETE
 - SELECT
+- LIKE
+- BETWEEN
 
 ## Objetivo
 Praticar comandos básicos para inserir, atualizar, consultar e excluir dados.
